@@ -397,11 +397,19 @@ Silahkan pilih tools yg mau di gunakan
    python2 admin_panel_finder.py
    fi
    
+   if [ $yo = 36 ] || [$yo = 36 ];then
+   apt update && apt upgrade && pkg install python2 && pkg install git && pip2 install requests
+   git clone https://github.com/frediganteng/frediXXX
+   cd frediXXX
+   ls
+   python2 scan.py
+   fi 
+   
    if [ $yo = 0 ] || [ $yo = 0 ];then
    clear
    echo "\033[35;1mSemoga bermanpaat dan gunakan dengan bijak :)"
    sleep 1
-   echo "\033[32;1mJika ingin kembali lagi silahkan ketik sh rus.sh"
+   echo "\033[32;1mJika ingin kembali lagi silahkan ketik sh fredi.sh"
    sleep 1
    echo "\033[31;1mSalam Anak Bangsa"
    sleeo 2
