@@ -1,18 +1,18 @@
 #!/usr/bin/bash
 #usr/bin/berkarya
-#Coders:Rusmana
+#Coders:FREDI MAULANA
 #Aku sayang kamu Reni Martini [Iren anya]
 #semoga kita bisa bertemu amiin
 
 clear
-figlet "Rusmana" | lolcat
+figlet "Fredi" | lolcat
 
 	echo """
 	\033[34;1m
 [•]==========================================[•]
  # quotes   :Salam Anak Bangsa     °  °   °   #
- # Coders   :Rusmana        °    °  °  °      #
- # kontax   :083879017166      °     °    °   #
+ # Coders   :FREDI MAULANA        °    °  °  °      #
+ # kontax   :085800213722      °     °    °   #
  # Thanks To:Mr.R|﴾ஓீ͜ঔৣ͡D4RKF19ঔৣ͡ஓீ͜ঔৣ͡﴿|minami     #
  # Hacker_alicia|Mr.McA.404|MR.J4K1 404 3ROR  #
  # xNot_Found|Zuhria|/.M.Dafv.\|Mr_t3v!0n     #
@@ -105,44 +105,44 @@ figlet "Rusmana" | lolcat
     ☒️--------------------------------☒️
       ========[00]===>[exit]<====
     ☒️--------------------------------☒️			  
-Sialahkan pilih tools yg mau di gunakan
+Silahkan pilih tools yg mau di gunakan
        Gunakan dengan bijak
    """ | lolcat 
    read -p "root@rus~>Pilih no :" yo
 
    if [ $yo = 01 ] || [ $yo = 1 ];then
    clear
-   figlet "Rusmana" | lolcat
+   figlet "Fredi" | lolcat
    php telkomsel.php
    fi
    if [ $yo = 02 ] || [ $yo = 2 ];then
    clear
-   figlet "Rusmana" | lolcat
+   figlet "Fredi" | lolcat
    php phd.php
    fi
    if [ $yo = 03 ] || [ $yo = 3 ];then
    clear
-   figlet "Rusmana" | lolcat
+   figlet "Fredi" | lolcat
    php tokped.php
    fi
    if [ $yo = 04 ] || [ $yo = 4 ];then
    clear
-   figlet "Rusmana" | lolcat
+   figlet "Fredi" | lolcat
    python2 spammer.py
    fi
    if [ $yo = 05 ] || [ $yo = 5 ];then
    clear
-   toilet "Rusmana" | lolcat
+   toilet "Fredi" | lolcat
    php jdid.php
    fi 
    if [ $yo = 06 ] || [ $yo = 6 ];then
    clear
-   toilet "Rusmana" |lolcat
+   toilet "Fredi" |lolcat
    php run.php
    fi
    if [ $yo = 07 ] || [ $yo = 7 ];then
    clear
-   toilet "Rusmana" | lolcat
+   toilet "Fredi" | lolcat
    python2 lazada.py
    fi
    
