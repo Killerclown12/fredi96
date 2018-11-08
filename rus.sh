@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 #usr/bin/berkarya
-#Coders:FREDI MAULANA
+#Coders:FREDI MAULANA.H
 #Aku sayang kamu Reni Martini [Iren anya]
 #semoga kita bisa bertemu amiin
 
